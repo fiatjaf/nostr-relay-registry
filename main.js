@@ -30,7 +30,8 @@ const App = {
         'wss://nostr.oxtr.dev',
         'wss://nostr.ono.re',
         'wss://relay.grunch.dev',
-        'wss://relay.cynsar.foundation'
+        'wss://relay.cynsar.foundation',
+        'wss://nostr.sandwich.farm'
       ],
       status: {}
     }
