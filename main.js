@@ -32,7 +32,8 @@ const App = {
         'wss://relay.grunch.dev',
         'wss://relay.cynsar.foundation',
         'wss://nostr.sandwich.farm',
-        'wss://relay.nostr.ch'
+        'wss://relay.nostr.ch',
+        'wss://nostr-relay.gkbrk.com'
       ],
       status: {}
     }
