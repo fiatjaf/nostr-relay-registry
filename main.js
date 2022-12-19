@@ -33,7 +33,8 @@ const App = {
         'wss://relay.cynsar.foundation',
         'wss://nostr.sandwich.farm',
         'wss://relay.nostr.ch',
-        'wss://nostr.fmt.wiz.biz'
+        'wss://nostr.fmt.wiz.biz',
+        'wss://nostr-relay.nonce.academy'
       ],
       status: {}
     }
