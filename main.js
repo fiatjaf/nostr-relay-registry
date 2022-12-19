@@ -34,6 +34,7 @@ const App = {
         'wss://nostr.sandwich.farm',
         'wss://relay.nostr.ch',
         'wss://nostr.fmt.wiz.biz'
+        'wss://nostr.nymsrelay.com'
       ],
       status: {}
     }
