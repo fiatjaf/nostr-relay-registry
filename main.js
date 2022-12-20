@@ -6,6 +6,7 @@ const App = {
     return {
       relays: [
         'wss://nostr-pub.wellorder.net',
+        'wss://nostr.cercatrova.me',
         'wss://relayer.fiatjaf.com',
         'wss://nostr.rocks',
         'wss://rsslay.fiatjaf.com',
@@ -34,8 +35,7 @@ const App = {
         'wss://nostr.sandwich.farm',
         'wss://relay.nostr.ch',
         'wss://nostr.fmt.wiz.biz',
-        'wss://nostr-relay.nonce.academy',
-        'wss://nostr.cercatrova.me'
+        'wss://nostr-relay.nonce.academy'
       ],
       status: {}
     }
