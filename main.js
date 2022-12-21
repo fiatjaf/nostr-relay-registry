@@ -42,8 +42,8 @@ const App = {
         'wss://nostr.slothy.win',
         'wss://relay.stoner.com',
         'wss://nostr.mado.io',
-        'wss://nostr.yael.at'
-        'wss://jiggytom.ddns.net',
+        'wss://nostr.yael.at',
+        'wss://jiggytom.ddns.net'
       ],
       status: {}
     }
