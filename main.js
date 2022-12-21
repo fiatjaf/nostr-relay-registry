@@ -4,7 +4,7 @@ import {relayConnect} from 'nostr-tools/relay'
 const App = {
   data() {
     return {
-      relays: 
+      relays: [
         'wss://nostr.bongbong.com',
         'wss://nostr-pub.wellorder.net',
         'wss://nostr.cercatrova.me',
