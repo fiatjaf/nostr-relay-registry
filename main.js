@@ -42,7 +42,8 @@ const App = {
         'wss://nostr.slothy.win',
         'wss://relay.stoner.com',
         'wss://nostr.mado.io',
-        'wss://nostr.yael.at'
+        'wss://nostr.yael.at',
+        'wss://nostr.mom'
       ],
       status: {}
     }
