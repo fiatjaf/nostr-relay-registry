@@ -38,7 +38,8 @@ const App = {
         'wss://nostr.einundzwanzig.space',
         'wss://nostr-relay.nonce.academy',
         'wss://nostr.nymsrelay.com',
-        'wss://relay.stoner.com'
+        'wss://relay.stoner.com',
+        'wss://nostr.mado.io'
       ],
       status: {}
     }
