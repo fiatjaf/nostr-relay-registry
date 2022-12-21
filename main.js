@@ -5,6 +5,7 @@ const App = {
   data() {
     return {
       relays: [
+        'wss://nostr.bongbong.com',
         'wss://nostr-pub.wellorder.net',
         'wss://nostr.cercatrova.me',
         'wss://relayer.fiatjaf.com',
@@ -39,7 +40,8 @@ const App = {
         'wss://nostr-relay.nonce.academy',
         'wss://nostr.nymsrelay.com',
         'wss://relay.stoner.com',
-        'wss://nostr.mado.io'
+        'wss://nostr.mado.io',
+        'wss://nostr.yael.at'
       ],
       status: {}
     }
