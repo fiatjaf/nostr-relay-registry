@@ -44,7 +44,8 @@ const App = {
         'wss://nostr.mado.io',
         'wss://nostr.yael.at',
         'wss://jiggytom.ddns.net',
-        'wss://nostr.mom'
+        'wss://nostr.mom',
+        'wss://nostr.walletofsatoshi.com'
       ],
       status: {}
     }
