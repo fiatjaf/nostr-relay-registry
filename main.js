@@ -45,7 +45,8 @@ const App = {
         'wss://nostr.yael.at',
         'wss://jiggytom.ddns.net',
         'wss://nostr.mom',
-        'wss://nostr-relay.digitalmob.ro'
+        'wss://nostr.walletofsatoshi.com',
+        'wss://nostr-relay.digitalmob.ro',
       ],
       status: {}
     }
