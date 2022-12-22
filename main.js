@@ -47,6 +47,8 @@ const App = {
         'wss://nostr.mom',
         'wss://nostr.walletofsatoshi.com',
         'wss://nostr-relay.digitalmob.ro',
+        'wss://nostr-2.zebedee.cloud',
+        'wss://nostr.zebedee.cloud',
       ],
       status: {}
     }
