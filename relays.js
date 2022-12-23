@@ -8,6 +8,7 @@ export const relays = [
   'wss://freedom-relay.herokuapp.com/ws',
   'wss://nostr-relay.freeberty.net',
   'wss://nostr.bitcoiner.social',
+  'wss://nostr.nodeofsven.com',
   'wss://nostr-relay.wlvs.space',
   'wss://nostr.onsats.org',
   'wss://nostr-relay.untethr.me',
