@@ -44,7 +44,8 @@ export const relays = [
   'wss://nostr-relay.digitalmob.ro',
   'wss://nostr-2.zebedee.cloud',
   'wss://nostr.zebedee.cloud',
-  'wss://nostr.orangepill.dev'
+  'wss://nostr.f44.dev',
+  'wss://nostr.orangepill.dev',
 ]
 
 shuffle(relays)
