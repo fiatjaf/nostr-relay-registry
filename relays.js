@@ -43,7 +43,8 @@ export const relays = [
   'wss://nostr.walletofsatoshi.com',
   'wss://nostr-relay.digitalmob.ro',
   'wss://nostr-2.zebedee.cloud',
-  'wss://nostr.zebedee.cloud'
+  'wss://nostr.zebedee.cloud',
+  'wss://nostr.f44.dev'
 ]
 
 shuffle(relays)
