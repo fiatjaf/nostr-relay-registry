@@ -1,4 +1,5 @@
 export const relays = [
+  'wss://nostr.p2sh.co',
   'wss://nostr.lnprivate.network',
   'wss://nostr.bongbong.com',
   'wss://nostr-pub.wellorder.net',
