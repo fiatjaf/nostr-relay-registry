@@ -55,6 +55,7 @@ export const relays = [
   'wss://nostr.chaker.net',
   'wss://relay.nostr.nu',
   'wss://relay.taxi',
+  'wss://knostr.neutrine.com:8880'
 ]
 
 shuffle(relays)
