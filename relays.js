@@ -62,8 +62,6 @@ export const relays = [
   'wss://relay.nostrich.de',
   'wss://relay.nostr.scot',
   'wss://relay.nosphr.com',
-  'wss://nostr-bg01.ciph.rs',
-  'wss://nostr-zu01.ciph.rs',
   'wss://relay.nostr-latam.link'
 ]
 
