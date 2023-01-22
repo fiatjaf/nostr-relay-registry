@@ -4,6 +4,7 @@ export const relays = [
   'wss://nostr.bongbong.com',
   'wss://nostr-pub.wellorder.net',
   'wss://nostr.cercatrova.me',
+  'wss://nostr.massmux.com',
   'wss://relayer.fiatjaf.com',
   'wss://nostr.rocks',
   'wss://rsslay.fiatjaf.com',
