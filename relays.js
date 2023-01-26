@@ -64,7 +64,7 @@ export const relays = [
   'wss://relay.nostr.scot',
   'wss://relay.nosphr.com',
   'wss://relay.nostr-latam.link',
-  'wss://nostr.coinsamba.com.br'
+  'wss://nostr.coinsamba.com.br',
   'wss://deconomy-netser.ddns.net:2121'
 ]
 
