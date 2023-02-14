@@ -70,7 +70,8 @@ export const relays = [
   'wss://deconomy-netser.ddns.net:2121',
   'wss://relay.nostr.wf',
   'wss://middling.myddns.me:8080',
-  'wss://relay.nostr.or.jp'
+  'wss://relay.nostr.or.jp',
+  'wss://nostr.yuv.al'
 ]
 
 shuffle(relays)
