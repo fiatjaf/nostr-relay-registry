@@ -1,4 +1,6 @@
 export const relays = [
+  'wss://nostr.herci.one',
+  'wss://lightningrelay.com',
   'wss://nostr.p2sh.co',
   'wss://nostr.lnprivate.network',
   'wss://nostr.bongbong.com',
@@ -10,7 +12,7 @@ export const relays = [
   'wss://rsslay.fiatjaf.com',
   'wss://freedom-relay.herokuapp.com/ws',
   'wss://nostr-relay.freeberty.net',
-  'wss://nostr.bitcoiner.social',
+  'wss://offchain.pub',
   'wss://nostr.nodeofsven.com',
   'wss://nostr-relay.wlvs.space',
   'wss://nostr.onsats.org',
@@ -67,8 +69,10 @@ export const relays = [
   'wss://nostr.coinsamba.com.br',
   'wss://deconomy-netser.ddns.net:2121',
   'wss://relay.nostr.wf',
-  'wss://nostr.beta3.dev',
-  'wss://middling.myddns.me:8080'
+  'wss://middling.myddns.me:8080',
+  'wss://relay.nostr.or.jp',
+  'wss://nostr.yuv.al',
+  'wss://nostr.beta3.dev'
 ]
 
 shuffle(relays)
