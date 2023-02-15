@@ -67,6 +67,7 @@ export const relays = [
   'wss://nostr.coinsamba.com.br',
   'wss://deconomy-netser.ddns.net:2121',
   'wss://relay.nostr.wf',
+  'wss://nostr.beta3.dev',
   'wss://middling.myddns.me:8080'
 ]
 
