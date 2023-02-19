@@ -73,7 +73,7 @@ export const relays = [
   'wss://relay.nostr.or.jp',
   'wss://nostr.yuv.al',
   'wss://nostr.beta3.dev',
-  'wss://at.nostrworks.com'
+  'wss://at.nostrworks.com',
   'wss://nostrsatva.net'
 ]
 
