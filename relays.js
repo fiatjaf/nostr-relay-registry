@@ -1,5 +1,5 @@
 export const relays = [
-'wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion',
+'ws://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion',
 'wss://at.nostrworks.com',
 'wss://deconomy-netser.ddns.net:2121',
 'wss://freedom-relay.herokuapp.com/ws',
