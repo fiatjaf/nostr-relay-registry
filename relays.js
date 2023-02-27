@@ -77,7 +77,8 @@ export const relays = [
   'wss://at.nostrworks.com',
   'wss://nostrsatva.net',
   'wss://nostr.xmr.rocks',
-  'wss://nostr.portemonero.com'
+  'wss://nostr.portemonero.com',
+  'wss://nostr.retroware.run.place'
 ]
 
 shuffle(relays)
