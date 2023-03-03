@@ -1,6 +1,7 @@
 export const relays = [
+  'wss://relay.mynostr.id',
   'wss://paid.nostrified.org',
-  'wss://nostr.21sats.net',  
+  'wss://nostr.21sats.net',
   'wss://nostr.herci.one',
   'wss://lightningrelay.com',
   'wss://nostr.p2sh.co',
