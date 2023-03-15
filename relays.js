@@ -44,7 +44,6 @@ export const relays = [
   'wss://nostr.nymsrelay.com',
   'wss://nostr.slothy.win',
   'wss://relay.stoner.com',
-  'wss://nostr.mado.io',
   'wss://nostr.yael.at',
   'wss://jiggytom.ddns.net',
   'wss://nostr.mom',
